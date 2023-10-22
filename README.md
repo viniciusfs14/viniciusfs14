@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Arduino" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Rafa-Arduino" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Rafa-Arduino" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" alt="vinicin-gif" height="210" width="220" src=https://discord.com/channels/@me/551567579970404361/1165481155466907749
+  <img align="right" alt="vinicin-gif" height="210" width="220" src=https://media.discordapp.net/attachments/551567579970404361/1165481155055849513/ezgif.com-optimize.gif?ex=654701e8&is=65348ce8&hm=8efbb05caff1e400434215d37d3f4e3a539f6a9e6a872c2233b9aeea4218d811&=&width=662&height=662
                     
 </div>
   
