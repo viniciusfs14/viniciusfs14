@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -25,7 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-###
 
 <p align="left">Hi, I'm Vinícius Fernandes Silvestre, a 21-year-old Electrical Engineering student. Currently, I am contributing to the development of the PYDAQ library, combining my passion for technology and engineering.</p>
 
