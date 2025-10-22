@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<p align="left">Hi, I'm Vinícius Fernandes Silvestre, a 21-year-old Electrical Engineering student. Currently, I am contributing to the development of the PYDAQ library, combining my passion for technology and engineering.</p>
+<p align="left">Hi, I'm Vinícius Fernandes Silvestre, a 22-year-old Electrical Engineering student. Currently, I am contributing to the development of the PYDAQ library, combining my passion for technology and engineering.</p>
 
 ###
 
